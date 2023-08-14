@@ -1247,7 +1247,7 @@ function Raisxng1.CreateWindow(libName, logoId)
                                         optionBtn1.MouseLeave:Connect(function()
                                             game.TweenService:Create(optionBtn1, TweenInfo.new(0.18, Enum.EasingStyle.Linear, Enum.EasingDirection.Out),{
                                                 BackgroundColor3 = Color3.fromRGB(21, 21, 21),
-                                                TextColor3 = Color3.fromRGB(120, 200, 187)
+                                                TextColor3 = Color3.fromRGB(89, 190, 105)
                                             }):Play()
                                         end)
                                 end
